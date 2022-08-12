@@ -1,8 +1,8 @@
-# Android、小程序、Html相关开发笔记
+# 开发笔记
 
-## [Android →](./android/note)
+## [Android →](./android/note.html)
 
-## [微信小程序 →](./miniprogram/note)
+## [微信小程序 →](./miniprogram/note.html)
 
 
-## [Html →](./android/note)
+## [Html →](./html/search-options-auto-fold.html)

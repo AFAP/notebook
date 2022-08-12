@@ -1,5 +1,5 @@
 module.exports = {
-    title: '阿富的笔记本',
+    title: '我的笔记本',
     description: 'Android 安卓 miniprogram 小程序 Html Css Javascript',
     base: "/",
     head: [
@@ -106,6 +106,15 @@ module.exports = {
                         title: '选项菜单自动换行',
                         path: '/html/search-options-auto-fold',
                     },
+                    {
+                        title: 'VUE中基于elementUI实现全局的图片预览',
+                        path: '/html/vue-picture-preview-base-elementui',
+                    },
+                    {
+                        title: '使用xlsx-js-style实现sheetjs的导出样式设置',
+                        path: '/html/vue-xlsx-js-style',
+                    },
+                    
                 ]
             },
         ],
