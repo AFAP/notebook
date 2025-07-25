@@ -1,6 +1,6 @@
 module.exports = {
-  title: '我的笔记本',
-  description: 'Android 安卓 miniprogram 小程序 Html Css Javascript',
+  title: '阿富的笔记本',
+  description: 'AI Android miniprogram 小程序 Html Css Javascript',
   base: "/",
   head: [
     ['link', { rel: 'icon', href: '/forth.png' }]
@@ -9,6 +9,21 @@ module.exports = {
     logo: '/bigHero.png',
     search: false,
     sidebar: [
+      {
+        title: 'AI',   // 必要的
+        collapsable: false, // 可选的, 默认值是 true,
+        sidebarDepth: 0,    // 可选的, 默认值是 1
+        children: [
+          {
+            title: 'AI开发',
+            path: '/ai/note',
+          },
+          {
+            title: '伪智能体',
+            path: '/ai/fake-agent',
+          },
+        ]
+      },
       {
         title: 'Android',   // 必要的
         collapsable: false, // 可选的, 默认值是 true,
