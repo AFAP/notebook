@@ -8,4 +8,4 @@
 
 ## [Html →](./html/search-options-auto-fold.html)
 
-## [其他 →](./other/info.html)
+## [其他 →](./other/fwh-h5-auth.html)

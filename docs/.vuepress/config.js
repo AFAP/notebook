@@ -145,6 +145,10 @@ module.exports = {
         sidebarDepth: 0,
         children: [
           {
+            title: '微信服务号、小程序登录序列图',
+            path: '/other/fwh-h5-auth',
+          },
+          {
             title: '服务器环境',
             path: '/other/info',
           },
