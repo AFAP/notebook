@@ -1,7 +1,7 @@
 module.exports = {
   title: '阿富的笔记本',
   description: 'AI Android miniprogram 小程序 Html Css Javascript',
-  base: "/",
+  base: "/notebook/",
   head: [
     ['link', { rel: 'icon', href: '/forth.png' }]
   ],
